@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralDesignPattren/BehaviouralDesignPattren.iml" filepath="$PROJECT_DIR$/BehaviouralDesignPattren/BehaviouralDesignPattren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderPattren/BuilderPattren.iml" filepath="$PROJECT_DIR$/BuilderPattren/BuilderPattren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeAndRegistry/ConfigurationObjectCloning/ConfigurationObjectCloning.iml" filepath="$PROJECT_DIR$/PrototypeAndRegistry/ConfigurationObjectCloning/ConfigurationObjectCloning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleTonDesign/ConnectionPool/ConnectionPool.iml" filepath="$PROJECT_DIR$/SingleTonDesign/ConnectionPool/ConnectionPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desginer Pattrens.iml" filepath="$PROJECT_DIR$/Desginer Pattrens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattren/FactoryDesignPattren.iml" filepath="$PROJECT_DIR$/FactoryDesignPattren/FactoryDesignPattren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeAndRegistry/Problem2/Problem2.iml" filepath="$PROJECT_DIR$/PrototypeAndRegistry/Problem2/Problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeAndRegistry/PrototypeAndRegistry.iml" filepath="$PROJECT_DIR$/PrototypeAndRegistry/PrototypeAndRegistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shallow and Deep copy/Shallow and Deep copy.iml" filepath="$PROJECT_DIR$/Shallow and Deep copy/Shallow and Deep copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleTonDesign/SingleTonDesign.iml" filepath="$PROJECT_DIR$/SingleTonDesign/SingleTonDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralDesignPattren/StreamingQuality/StreamingQuality.iml" filepath="$PROJECT_DIR$/BehaviouralDesignPattren/StreamingQuality/StreamingQuality.iml" />
+    </modules>
+  </component>
+</project>
